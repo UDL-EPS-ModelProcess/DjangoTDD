@@ -1,0 +1,3 @@
+test:
+  override:
+    - ./django_testing_script.sh
