@@ -5,7 +5,11 @@
 
 ## Motivation
 This project is focused on describing how to integrate a Django Project
-with [CircleCI](https://circleci.com/) continous integration tool.
+with [CircleCI](https://circleci.com/) continous integration tool. After passing all test,
+it has been defined a deployment on [Heroku](https://www.heroku.com/).
+
+Therefore, the application latest successful deployment covering all test can be found
+[here]().
 
 ## Getting Started
 
