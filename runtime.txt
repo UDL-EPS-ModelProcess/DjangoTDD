@@ -1,1 +1,2 @@
-python-2.7.11
+django== 1.11
+coverage==3.7.1
