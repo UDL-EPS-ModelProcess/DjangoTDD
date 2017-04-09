@@ -9,4 +9,4 @@ cd mysite
 
 # Execute the commands for the tests
 
-python manage.py test
+python manage.py test --settings=bookworm.settings.circleci
